@@ -9,13 +9,17 @@
 ![Alt Text](https://github.com/damarwdsyh003/ModulPBO/blob/master/Eksplorasi.png)
 # LATIHAN 1
 ![Alt Text](https://github.com/damarwdsyh003/ModulPBO/blob/master/Latihan%201.png)
-# LATIHAN 1
+# LATIHAN 2
 ![Alt Text](https://github.com/damarwdsyh003/ModulPBO/blob/master/Latihan%202.png)
-# LATIHAN 1
+# LATIHAN 3
 ![Alt Text](https://github.com/damarwdsyh003/ModulPBO/blob/master/Latihan%203.2.png)
 ![Alt Text](https://github.com/damarwdsyh003/ModulPBO/blob/master/Latihan%203.png)
-# LATIHAN 1
+# LATIHAN 4
 ![Alt Text](https://github.com/damarwdsyh003/ModulPBO/blob/master/Latihan%204.png)
+# OBJEK PADA LATIHAN 4 
+  OBJEKNYA ADALAH MOTOR
+# METHOD YANG DIGUNAKAN
+  METHODNYA ADALAH METHOD VOID
 # LUAS BALOK
 ![Alt Text](https://github.com/damarwdsyh003/ModulPBO/blob/master/LuasBalok.png)
 # LUAS BOLA
