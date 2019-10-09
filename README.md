@@ -25,6 +25,8 @@
 # LUAS BOLA
 ![Alt Text](https://github.com/damarwdsyh003/ModulPBO/blob/master/LuasBola.png)
 # --==KESIMPULAN==--
-  Class adalah pemodelan dari suatu objek yang mendeskripsikan data atau fungsi
-  Method adalah bagian kode yang dipanggil oleh program utama untuk menjalankan fungsi yang jelas
-  Objek adalah kumpulan softwere yang terdiri dari variabel dan method-method yang saling terkait
+Class adalah pemodelan dari suatu objek yang mendeskripsikan data atau fungsi.
+
+Method adalah bagian kode yang dipanggil oleh program utama untuk menjalankan fungsi yang jelas.
+
+Objek adalah kumpulan softwere yang terdiri dari variabel dan method-method yang saling terkait.
